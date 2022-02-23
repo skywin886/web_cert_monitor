@@ -1,0 +1,3 @@
+requests==2.26.0
+pyOpenSSL==21.0.0
+schedule==1.1.0
